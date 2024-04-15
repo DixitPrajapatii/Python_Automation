@@ -5,7 +5,7 @@ import time
 ticker = input("Enter the ticker symbol: ")
 from_date = input('Enter start date in yyyy/mm/dd format:')
 to_date = input('Enter end date in yyyy/mm/dd format:')
-# dfafad
+
 from_datetime = datetime.strptime(from_date, '%Y/%m/%d')
 to_datetime = datetime.strptime(to_date, '%Y/%m/%d')
 
