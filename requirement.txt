@@ -3,3 +3,4 @@ selenium
 chromium
 chromedriver
 requests
+BeautifulSoup
